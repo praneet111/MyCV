@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.hero {
+    background-color: #212529;
+    color: white;
+    padding: 50px;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    background: #212529;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
